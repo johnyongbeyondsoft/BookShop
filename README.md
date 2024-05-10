@@ -1,3 +1,5 @@
-# TEST PUSH CHANGES  - MAY 3 2024
+# TEST EXPORT CHANGES  - MAY 10 2024
 
-# hontouwatashinosunderutokorotochigattemichigaooikaramayocchatta
+# DOUSHITE WATASHI GA JITENSHI NI NORENAI KOTO SHITERU NO
+
+moshikashitara kuni niyotte chigau kamoshirenai
