@@ -1,5 +1,5 @@
-# TEST PUSH CHANGES - MAY 17 2024
+# TEST EXPORT CHANGES - MAY 20 2024
 
-# ASA SHAWA WO ABITARA, SAPPARI SHITA 
+# HAJIME KATSU KI HA NAI
 
-# KONO JOYUU NI ZUTTO AKOGARE TEIRU
+soredemo watashi ha jibun no jinsei ni iimi wo mitsukeraremashita
