@@ -1,5 +1,5 @@
-# TEST PUSH CHANGES - MAY 17 2024
+# TEST EXPORT CHANGES - MAY 24 2024
 
-# ASA SHAWA WO ABITARA, SAPPARI SHITA 
+# MICHI DE SAIFU WO HIROTTA
 
-# KONO JOYUU NI ZUTTO AKOGARE TEIRU
+modotte kite mo gakkou ni mo ikanaide gorogoro gorogoro gorogoro
